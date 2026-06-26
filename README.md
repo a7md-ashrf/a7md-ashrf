@@ -5,6 +5,7 @@
 <div align="center">
 <h1 align="left">Skills🥷🏼:</h1>
 <br/>
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=A7med-Mido&layout=compact&theme=dark)" alt="typescript" width="70" height="70" style="margin: 5px;"/>
 
 <p align="left">Languages:</p>
 <div align="left">
