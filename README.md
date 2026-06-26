@@ -7,6 +7,10 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med-mido&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-mido" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7med-mido&show_icons=true&locale=en&layout=compact" alt="a7med-mido" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7med-mido&show_icons=true&locale=en" alt="a7med-mido" /></p>
+
 <p align="left">Languages:</p>
 <div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70" style="margin: 5px;"/>
