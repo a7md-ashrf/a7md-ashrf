@@ -5,7 +5,7 @@
 <div align="center">
 <h1 align="left">Skills🥷🏼:</h1>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med-mido&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-mido" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=A7med-Mido&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-mido" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A7med-Mido&show_icons=true&locale=en&layout=compact" alt="a7med-mido" /></p>
 
