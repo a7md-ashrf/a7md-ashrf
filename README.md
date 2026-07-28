@@ -7,19 +7,9 @@
   <img src="https://raw.githubusercontent.com/A7med-Mido/A7med-Mido/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/736x/4a/a9/c7/4aa9c7145aa7a06aee2d7868d6f19778.jpg"  />
-
-
 <div align="center">
 <h1 align="left">Skills🥷🏼:</h1>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=A7med-Mido&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-mido" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=A7med-Mido&show_icons=true&locale=en&layout=compact" alt="a7med-mido" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A7med-Mido&show_icons=true&locale=en" alt="a7med-mido" /></p>
 
 <p align="left">Languages:</p>
 <div align="left">
