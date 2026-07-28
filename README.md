@@ -2,6 +2,16 @@
 <br/>
 <hr/>
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/A7med-Mido/A7med-Mido/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/A7med-Mido/A7med-Mido/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/736x/4a/a9/c7/4aa9c7145aa7a06aee2d7868d6f19778.jpg"  />
+
+
 <div align="center">
 <h1 align="left">Skills🥷🏼:</h1>
 <br/>
