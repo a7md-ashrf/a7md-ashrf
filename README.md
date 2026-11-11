@@ -67,6 +67,7 @@
 <div align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70" style="margin: 5px;"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="70" height="70" style="margin: 5px;"/></a>
+  <a href="https://bun.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/nodejs-original.svg" alt="nodejs" width="70" height="70" style="margin: 5px;"/></a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70" style="margin: 5px;"/></a>
 </div>
 <br/>
